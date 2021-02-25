@@ -20,12 +20,6 @@ export default class MyProject extends Component {
 
       Alert.alert("Date:" +  date + '-' + month + '-' + year + " Time :" +h+":"+m+":"+s );
 
-<<<<<<< Updated upstream
-     }
-=======
-     }dhbcbbbrtjgtyjjyyyc nc ncncncnc
->>>>>>> Stashed changes
-
   render() {
 
     return (
