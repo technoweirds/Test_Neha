@@ -20,7 +20,7 @@ export default class MyProject extends Component {
 
       Alert.alert("Date:" +  date + '-' + month + '-' + year + " Time :" +h+":"+m+":"+s );
 
-     }
+     }dhbcbbbrtjgtyjjyyy
 
   render() {
 
